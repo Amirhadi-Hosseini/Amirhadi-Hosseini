@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and application development
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me : a.hhadi.hosseini@gmail.com
+- 📫 How to reach me : a.hadi.hosseini@gmail.com
 - 😄 Pronouns: what do you think?
 - ⚡ Fun fact: I hate not trying and not understanding
 
